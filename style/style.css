@@ -31,6 +31,8 @@ html{
 .nav-container{
 	/*border: 1px solid red;*/
 	background: url(../gambar/header-bg.png);
+	display: -webkit-flex;
+	display: -ms-flex;
 	width: 100%;
 	margin-top: 30px;
 	position: fixed;
